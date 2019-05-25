@@ -1,4 +1,4 @@
-# GP2X1-Power-Splitter
+# GP2X1 Power Splitter
 
 These are the board files for an RF power splitter based on the Mini-Circuits GP2X1+ power splitter IC. It can handle up to 1.5W between a frequency range of 2900 - 6200 MHz. It has tested and verified to work but I cannot guarantee performance characteristics because I simply dont have the tools to test it. The boards are 4 layer FR408 PCBs ordered from OSH Park due to the decent RF performance and cost. The SMA footprints on the board are based off of Molex connectors but they work fine with other brands even if the sizes dont match. The boards are uploaded to the OSH Park website and can be viewed and ordered below.
 
