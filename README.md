@@ -4,6 +4,5 @@ These are the board files for an RF power splitter based on the Mini-Circuits GP
 
 GP2X1+ Data Sheet: https://www.minicircuits.com/pdfs/GP2X+.pdf
 
-OSH Park PCB link: https://oshpark.com/shared_projects/WrkGxE40
-
+OSH Park PCB link:
 <a href="https://oshpark.com/shared_projects/WrkGxE40"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
